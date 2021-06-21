@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rb-readline (0.5.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rb-readline
+
+RUBY VERSION
+   ruby 2.7.1p83
+
+BUNDLED WITH
+   2.1.4
